@@ -1,5 +1,6 @@
-Culinary Robotics Competition
-Welcome to the Culinary Robotics Competition repository! This project was developed for a robotics competition where two autonomous robots cooperatively served 3D-printed food. The competition challenged teams to design and program robots capable of performing various culinary tasks, from retrieving ingredients to cutting, cooking, and serving food.
+#Culinary Robotics Competition
+
+####Welcome to the Culinary Robotics Competition repository! This project was developed for a robotics competition where two autonomous robots cooperatively served 3D-printed food. The competition challenged teams to design and program robots capable of performing various culinary tasks, from retrieving ingredients to cutting, cooking, and serving food.
 
 Our team placed 3rd in the competition, successfully implementing a system where the robots worked together to complete food preparation tasks. Notably, we were the only team to split and serve fries during the competition!
 
@@ -7,17 +8,17 @@ This repository contains the codebase for two autonomous robots developed for th
 
 The primary objective was to develop robots that could handle kitchen tasks autonomously, interact with each other efficiently, and adapt to changes in the environment, all while ensuring food safety and quality.
 
-Features
+##Features
 Modular and Non-blocking Codebase: The system was designed to be flexible and easy to extend. The modular approach allows for additional tasks or changes in robot behavior to be added with minimal disruption.
 Task Coordination: The robots communicate and synchronize their tasks to ensure smooth and efficient cooking and serving.
 Multi-Robot Collaboration: Two robots work cooperatively, sharing tasks such as retrieving, processing, and serving food.
 Autonomous Food Handling: Robots can pick up 3D-printed food items, cut them, cook them, and serve them, all autonomously.
 Competition Results: The team successfully split and served fries, placing 3rd in the competition.
 
-Contributors
+##Contributors
 This project was developed by the following team members during the Culinary Robotics Competition:
 
-Chase Malcolm - GitHub Profile
+Chase Malcolm
 Ron Nelson
 Mike Jaeger
 Jawad Makki
