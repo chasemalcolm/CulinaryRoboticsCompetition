@@ -9,11 +9,11 @@ This repository contains the codebase for two autonomous robots developed for th
 The primary objective was to develop robots that could handle kitchen tasks autonomously, interact with each other efficiently, and adapt to changes in the environment, all while ensuring food safety and quality.
 
 ## Features
-Modular and Non-blocking Codebase: The system was designed to be flexible and easy to extend. The modular approach allows for additional tasks or changes in robot behavior to be added with minimal disruption.
-Task Coordination: The robots communicate and synchronize their tasks to ensure smooth and efficient cooking and serving.
-Multi-Robot Collaboration: Two robots work cooperatively, sharing tasks such as retrieving, processing, and serving food.
-Autonomous Food Handling: Robots can pick up 3D-printed food items, cut them, cook them, and serve them, all autonomously.
-Competition Results: The team successfully split and served fries, placing 3rd in the competition.
+- Modular and Non-blocking Codebase: The system was designed to be flexible and easy to extend. The modular approach allows for additional tasks or changes in robot behavior to be added with minimal disruption.
+- Task Coordination: The robots communicate and synchronize their tasks to ensure smooth and efficient cooking and serving.
+- Multi-Robot Collaboration: Two robots work cooperatively, sharing tasks such as retrieving, processing, and serving food.
+- Autonomous Food Handling: Robots can pick up 3D-printed food items, cut them, cook them, and serve them, all autonomously.
+- Competition Results: The team successfully split and served fries, placing 3rd in the competition.
 
 ## Contributors
 This project was developed by the following team members during the Culinary Robotics Competition:
